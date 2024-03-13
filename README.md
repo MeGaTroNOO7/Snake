@@ -19,9 +19,9 @@ This is a simple Snake game implemented in Java using Swing.
 To run the game locally:
 
 1. Clone this repository.
-   '''
+   ```
    git clone https://github.com/MeGaTroNOO7/Snake.git
-   '''
+   ```
 3. Compile the Java files.
 4. Run the `SnakeGame` class.
 
