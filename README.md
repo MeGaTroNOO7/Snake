@@ -25,7 +25,12 @@ To run the game locally:
 3. Compile the Java files.
 4. Run the `SnakeGame` class.
 
+#Screenshots
+
+![LAST SNAKE](https://github.com/MeGaTroNOO7/Snake/assets/98184459/ec41fb77-c032-43cf-93db-2999c0d37441)
+![Snake 2nd](https://github.com/MeGaTroNOO7/Snake/assets/98184459/e00ff453-c9e1-4181-9240-abf7fc981198)
+
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
-
